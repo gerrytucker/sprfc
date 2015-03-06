@@ -11,10 +11,12 @@
 	</head>
 	<body <?php body_class(); ?>>
 
-		<header class="container">
-			<div class="row">
-				<div class="col s12">
-					<h3>Next Match</h3>
+		<header>
+			<div class="container">
+				<div class="row">
+					<div class="col s12">
+						<h3>Next Match</h3>
+					</div>
 				</div>
 			</div>
 		</header>
