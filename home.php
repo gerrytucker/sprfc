@@ -5,6 +5,9 @@ Template Name: Home
 get_header();
 
 get_template_part('partials/home', 'footer');
-
-get_footer();
 ?>
+		<div class="parallax-container">
+			<img class="parallax" src="<?php echo get_template_directory_uri(); ?>/images/lineup.jpg">
+		</div>
+
+<?php get_footer(); ?>

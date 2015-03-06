@@ -12,7 +12,10 @@
 	<body <?php body_class(); ?>>
 
 		<header>
-			<div class="skew">
-				<h1>Next Match:</h1>
+			<div class="row">
+				<div class="col s1">
+					<h3>Next Match</h3>
+				</div>
 			</div>
 		</header>
+		
