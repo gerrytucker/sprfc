@@ -13,7 +13,7 @@
 
 		<header>
 			<div class="row">
-				<div class="col s1">
+				<div class="col s12">
 					<h3>Next Match</h3>
 				</div>
 			</div>
