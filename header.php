@@ -9,4 +9,4 @@
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<?php wp_head(); ?>
 	</head>
-	<body>
+	<body <?php body_class(); ?>>
