@@ -10,3 +10,11 @@
 		<?php wp_head(); ?>
 	</head>
 	<body <?php body_class(); ?>>
+
+		<header>
+			<div class="slope">
+				<div class="slope-content row">
+					<h1>Next Match:</h1>
+				</div>
+			</div>
+		</header>
