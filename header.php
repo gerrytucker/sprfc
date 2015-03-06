@@ -11,7 +11,7 @@
 	</head>
 	<body <?php body_class(); ?>>
 
-		<header>
+		<header class="container">
 			<div class="row">
 				<div class="col s12">
 					<h3>Next Match</h3>
